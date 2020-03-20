@@ -1,0 +1,8 @@
+#Dont track.
+#Laboratorio1.
+
+Laboratorio1/build/*
+Laboratorio1/dist/*
+Laboratorio1/nbproject/*
+Laboratorio1/.dep.inc
+Laboratorio1/Makefile
