@@ -6,3 +6,11 @@ Laboratorio1/dist/*
 Laboratorio1/nbproject/*
 Laboratorio1/.dep.inc
 Laboratorio1/Makefile
+
+#Laboratorio2
+
+Laboratorio2/build/*
+Laboratorio2/dist/*
+Laboratorio2/nbproject/*
+Laboratorio2/.dep.inc
+Laboratorio2/Makefile
