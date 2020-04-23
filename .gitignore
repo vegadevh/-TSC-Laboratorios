@@ -14,3 +14,11 @@ Laboratorio2/dist/*
 Laboratorio2/nbproject/*
 Laboratorio2/.dep.inc
 Laboratorio2/Makefile
+
+#Laboratorio3
+
+Laboratorio3/build/*
+Laboratorio3/dist/*
+Laboratorio3/nbproject/*
+Laboratorio3/.dep.inc
+Laboratorio3/Makefile
