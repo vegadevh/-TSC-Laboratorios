@@ -90,7 +90,7 @@ public:
 };
 
 class mesh {
-    float parameters[2];
+    float parameters[3]; // Cantidad de parametros
     int sizes[4];
     node *node_list;
     element *element_list;
